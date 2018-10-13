@@ -271,6 +271,7 @@ margin-bottom:60px;
 }
 .contact-heading{
 font-size:26px;
+text-align: left;
 }
 .contact-link {
 color:#66CCFF;
@@ -446,7 +447,7 @@ padding-top:10%;
 .contact-heading {
 
 font-size: 30px;
-text-align: center;
+text-align: left;
 }
 .nav-menu {
 
@@ -493,6 +494,7 @@ padding-left:0;
 }
 .contact-heading{
 font-size:26px;
+text-align: left;
 }
 .section4-col {
 
@@ -540,6 +542,7 @@ font-size: 35px;
 
 margin-bottom: 10px;
 font-size: 24px;
+text-align: left;
 }
 .contact-link {
 
